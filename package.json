@@ -1,0 +1,24 @@
+{
+  "name": "tiktokdownloadertele",
+  "version": "0.0.1",
+  "description": "Script Bot Telegram TikTok Downloader with TeleBot Module",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.0",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "node-fetch": "2.0",
+    "telebot": "^1.4.1"
+  },
+  "keywords": [
+    "telegrambot",
+    "tiktok",
+    "downloader",
+    "bot"
+  ],
+  "author": "Alfareizhel",
+  "license": "ISC"
+}
