@@ -12,7 +12,7 @@ var antiSpam = []
 var parseMode = 'html'
 
 const bot = new TeleBot({
-    token: "5863476273:AAEy48Lc7TGOcdX7KEDCM31l-YMCH-MtyKk",
+    token: "YOUR:BOT-TOKEN",
     usePlugins: ['floodProtection'],
     pluginConfig: {
         floodProtection: {
